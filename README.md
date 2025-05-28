@@ -93,3 +93,8 @@ Explanation:
 * `1 + 2 = 3` → No
 * `4 + 4 = 8` → Yes
 
+## Approach:
+
+This C++ program is designed to handle multiple test cases where, for each case, it reads two integers, adds them, and checks if their sum exceeds 6. The user first inputs the number of test cases (t), and for each case, the program inputs two numbers (x and y), computes their sum, and compares it against the threshold value 6.
+
+If the sum is greater than 6, the program outputs "Yes"; otherwise, it outputs "No". This approach uses a simple loop to iterate through the test cases and an if-else condition to determine the output based on the calculated sum. It's a straightforward implementation focusing on basic input/output and conditional logic.
