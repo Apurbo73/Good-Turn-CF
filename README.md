@@ -93,4 +93,3 @@ Explanation:
 * `1 + 2 = 3` → No
 * `4 + 4 = 8` → Yes
 
-Let me know if you want this turned into a [flowchart](f) or [Python version](f).
